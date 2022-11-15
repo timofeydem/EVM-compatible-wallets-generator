@@ -3,8 +3,8 @@
 
 ## How to use:
 
-### pip3 intall web3py
-### pip3 install eth_account
+### - pip3 intall web3py
+### - pip3 install eth_account
 
 
 ### Firstly, you should choose number of wallets you need. 
