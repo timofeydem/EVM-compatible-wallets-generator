@@ -2,6 +2,11 @@
 # Wallet generator for EVM compatible blockchains on Python
 
 ## How to use:
+
+### pip3 intall web3py
+### pip3 install eth_account
+
+
 ### Firstly, you should choose number of wallets you need. 
 ### Secondly, you choose format (2 formats avaliable: )
  - address | private_key 
