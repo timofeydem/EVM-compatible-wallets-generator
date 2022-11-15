@@ -11,6 +11,6 @@
 ### Secondly, you choose format (2 formats avaliable: )
  - address | private_key 
  - address 
-   private key
+   \n private key
   ### Thirdly, you choose do you need to write arrays with addresses and private keys. (Very useuful function for use those arrays in Python scripts)
 
