@@ -35,3 +35,4 @@ if choose_array == "y":
     for x in private_keys:
         f.write("'" + x + "'" + ",")
     f.write("]")
+Я гей
